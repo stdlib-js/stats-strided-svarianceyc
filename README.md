@@ -384,7 +384,7 @@ int main( void ) {
 -   <span class="package-name">[`@stdlib/stats-strided/dvarianceyc`][@stdlib/stats/strided/dvarianceyc]</span><span class="delimiter">: </span><span class="description">calculate the variance of a double-precision floating-point strided array using a one-pass algorithm proposed by Youngs and Cramer.</span>
 -   <span class="package-name">[`@stdlib/stats-base/snanvarianceyc`][@stdlib/stats/base/snanvarianceyc]</span><span class="delimiter">: </span><span class="description">calculate the variance of a single-precision floating-point strided array ignoring NaN values and using a one-pass algorithm proposed by Youngs and Cramer.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/sstdevyc`][@stdlib/stats/strided/sstdevyc]</span><span class="delimiter">: </span><span class="description">calculate the standard deviation of a single-precision floating-point strided array using a one-pass algorithm proposed by Youngs and Cramer.</span>
--   <span class="package-name">[`@stdlib/stats-base/svariance`][@stdlib/stats/base/svariance]</span><span class="delimiter">: </span><span class="description">calculate the variance of a single-precision floating-point strided array.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/svariance`][@stdlib/stats/strided/svariance]</span><span class="delimiter">: </span><span class="description">calculate the variance of a single-precision floating-point strided array.</span>
 -   <span class="package-name">[`@stdlib/stats-base/varianceyc`][@stdlib/stats/base/varianceyc]</span><span class="delimiter">: </span><span class="description">calculate the variance of a strided array using a one-pass algorithm proposed by Youngs and Cramer.</span>
 
 </section>
@@ -479,7 +479,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/strided/sstdevyc]: https://github.com/stdlib-js/stats-strided-sstdevyc
 
-[@stdlib/stats/base/svariance]: https://github.com/stdlib-js/stats-base-svariance
+[@stdlib/stats/strided/svariance]: https://github.com/stdlib-js/stats-strided-svariance
 
 [@stdlib/stats/base/varianceyc]: https://github.com/stdlib-js/stats-base-varianceyc
 
